@@ -8,3 +8,5 @@ Při sbírání materiálů k předmětům je několik užitečných zdrojů:
 * [git](https://github.com/sulsseo/oi-bszz) - starsi otazky, asi se pujdou namapovat, vypadaji slibne
 
 Je fajn přidat readme k materiálům daného předmětu, ať ostatní získají přehled, k čemu je který materiál dobrý.
+
+http://oi-by-teaparty.eu/domains/oi-by-teaparty.eu/doku.php/statnice/komise - Nejaka OI Wiki se zaznamy statnic
