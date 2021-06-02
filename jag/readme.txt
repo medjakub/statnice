@@ -1,0 +1,1 @@
+jeste ma na moodle prezentace, tak to asi stahneme, ja to nestihl
