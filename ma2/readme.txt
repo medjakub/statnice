@@ -6,3 +6,5 @@ sb_mat2 -- sbirka od Korbelare, nejlepsi priklady z derivaci bude rovnou prubeh 
            a Taylorovy polynomy aka zobecnene tecny, tam se toho vidi nejvic
         -- a samozrejme integraly, asi staci ty zakladni dvojne??
         -- nemuzou po nas chtit vsechno :D
+
+https://www.youtube.com/watch?v=Njm3mGDIUDU&list=PLQL6z4JeTTQne5N_yD6X-hK3FW57rAb5b&t=440s -- zaznamy z cviceni ala Covid
