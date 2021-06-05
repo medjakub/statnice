@@ -10,3 +10,5 @@ Při sbírání materiálů k předmětům je několik užitečných zdrojů:
 Je fajn přidat readme k materiálům daného předmětu, ať ostatní získají přehled, k čemu je který materiál dobrý.
 
 http://oi-by-teaparty.eu/domains/oi-by-teaparty.eu/doku.php/statnice/komise - Nejaka OI Wiki se zaznamy statnic
+
+https://math.fel.cvut.cz/cz/mt/windexc.htm -- priklady z analyzy 1 od Habaly
